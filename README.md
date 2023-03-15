@@ -10,6 +10,8 @@
 
 - A poll panel control (*PollBox*) allow pause, resume or reset the polling.
 
-![image](https://user-images.githubusercontent.com/78646102/225380287-c3490771-68a9-44e3-a518-1fdcf983ad4c.png)
+![image](https://user-images.githubusercontent.com/78646102/225384371-3f4cc2eb-d4ab-4393-bfbe-85e43f1e40c2.png)
+![image](https://user-images.githubusercontent.com/78646102/225384622-c9ca6cb8-bbec-48cf-83ee-0573a30b6672.png)
+
 
 
