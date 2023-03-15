@@ -1,6 +1,7 @@
 # Real-trends-Challenge
 
 ## App with two modules (client &amp; server-side) builded using Socket.IO, ReactJS and TypeScript that allow a real time polling between two products.
+## The server provide products and vote data consumed by the client.
 
 ### Features: 
 
