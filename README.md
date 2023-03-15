@@ -8,6 +8,8 @@
 
 - *User* and opinion's user (*review*) are showed in a scrollable section.
 
+- *newUser* are added after submitting a form containing his/her review and choice(*option*).
+
 - A poll panel control (*PollBox*) allow pause, resume or reset the polling.
 
 
